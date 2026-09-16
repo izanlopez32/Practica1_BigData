@@ -8,7 +8,7 @@
 
 ## Contenido
 
-Esta parte contiene 15 ejercicios de programación realizados en Scala utilizando JupyterLab.
+Esta parte contiene un par de ejercicios de programación realizados en Scala utilizando JupyterLab y varias fotos que muestran las versiones del software utilizado.
 
 ## Notebook
 
