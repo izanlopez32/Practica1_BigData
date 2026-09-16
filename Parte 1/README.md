@@ -18,7 +18,7 @@ Tras este paso la añadiremos al PATH a través de la sección "Editar las varia
 
 Para comprobar que se ha añadido correctamente al PATH reabriremos nuestra consola CMD de nuevo y ejecutaremos `jupyter lab`, si todo sale bien se abrirá automáticamente en nuestro navegador por defecto (en mi caso Brave) JupyterLab listo para usar.
 
-![Primer uso de JupyterLab](img/primerousojupyterlab.png)
+![Primer uso de JupyterLab](img/primerusojupyterlab.png)
 
 ### Instalación de Almond Kernel
 
